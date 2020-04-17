@@ -13,10 +13,10 @@ Background: SignIn to Multilingual online Machaism
       When I want to Sign In with Invalid ID
      Then I Expected to see Enter id 
      
- Scenario: Sign in with invalid password 
-    When I want to Sign In with Invalid password
-    Then I Expected to see Enter password 
- 
+ #Scenario: Sign in with invalid password 
+    #When I want to Sign In with Invalid password
+    #Then I Expected to see Enter password 
+ #
   
     
     
